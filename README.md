@@ -1,6 +1,7 @@
-## Hi there, I'm Tamara 👋
+# Hi there, I'm Tamara 👋
 
-### Skills and Experience: 
+## Skills and Experience: 
+---
 
 
 
