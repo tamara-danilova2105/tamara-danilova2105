@@ -1,5 +1,9 @@
 ## Hi there, I'm Tamara 👋
 
+### Skills and Experience: 
+
+
+
 <!--
 **tamara-danilova2105/tamara-danilova2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
