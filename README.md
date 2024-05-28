@@ -1,5 +1,5 @@
 # Hi there, I'm Tamara 👋
-## Web developer from Izevsk, RU
+### Web developer from Izevsk, RU
 
 ## Skills and Experience: 
 
