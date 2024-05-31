@@ -1,5 +1,5 @@
 # Hi there, I'm Tamara 👋
-### Web developer from Izevsk, RU
+### Web developer from Izhevsk, RU
 
 - 🔭 I’m currently working on React/TypeScript
 - 🌱 I’m currently learning Flutter, Dart
