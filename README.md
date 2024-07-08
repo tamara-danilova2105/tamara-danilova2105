@@ -1,7 +1,11 @@
 # Hi there, I'm Tamara 👋
 ### Web developer from Izhevsk, RU
 
-- 🔭 I’m currently working on React/TypeScript
+- I’m currently working on React/TypeScript
+
+### Project
+[Inrerior Designer](https://olesya-martin.netlify.app/)
+[Mortgage Adviser](https://mortage-cz.netlify.app/)
 
 ## Skills and Experience: 
 
