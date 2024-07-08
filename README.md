@@ -4,7 +4,7 @@
 - I’m currently working on React/TypeScript
 
 ### Project
-Interior Designer[Olesya Martin](https://olesya-martin.netlify.app/)
+Interior Designer [Olesya Martin](https://olesya-martin.netlify.app/)
 
 Mortgage Adviser [Rinata Ahmetshina](https://mortage-cz.netlify.app/)
 
