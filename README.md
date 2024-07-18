@@ -4,9 +4,9 @@
 - I’m currently working on React/TypeScript
 
 ### Project
+- Digital Agency [AL TECH LABS ](https://altechlabs.netlify.app/)
 - Interior Designer [Olesya Martin](https://olesya-martin.netlify.app/)
 - Mortgage Adviser [Rinata Ahmetshina](https://mortage-cz.netlify.app/)
-- Digital Agency [All TECH LABS ](https://altechlabs.netlify.app/)
 
 ## Skills and Experience: 
 
