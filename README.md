@@ -2,6 +2,7 @@
 ### Web developer from Izhevsk, RU
 
 - I’m currently working on React/TypeScript
+- I’m currently studying on Flutter/Dart
 
 ### Project
 - Digital Agency [AL TECH LABS ](https://altechlabs.netlify.app/)
