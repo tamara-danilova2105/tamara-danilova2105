@@ -5,7 +5,7 @@
 - I’m currently studying on Flutter/Dart
 
 ### Project
-- Digital Agency [AL TECH LABS ](https://altechlabs.netlify.app/)
+- Digital Agency [AL TECH LABS ](https://altech.digital)
 - Interior Designer [Olesya Martin](https://olesya-martin.netlify.app/)
 - Mortgage Adviser [Rinata Ahmetshina](https://mortage-cz.netlify.app/)
 - Cattery Savannah [SAVANNAH WORLD](https://ts-savannah-world.netlify.app/)
