@@ -2,7 +2,7 @@
 ### Web developer from Izhevsk, RU
 
 - I’m currently working on React/TypeScript
-- I’m currently studying on Flutter/Dart
+- I’m currently studying on Python and Flutter/Dart
 
 ### Project
 - Signature tours [ACROSS THE WORLD ](https://acrosstheworld.ru/)
