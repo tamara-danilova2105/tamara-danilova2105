@@ -1,38 +1,40 @@
-# Привет, я Тамара
+# 👋 Привет, я Тамара
 
-Frontend / Fullstack разработчик (React + Node.js).\
-Делаю продуктовые приложения и сложные интерфейсы.
+Frontend / Fullstack разработчик (React + Node.js)\
+Разрабатываю продуктовые системы: CRM, админ-панели, аналитика
 
 ------------------------------------------------------------------------
 
-## Основной проект
+## 🚀 Основной проект
 
-### Across The World (ATW) [ACROSS THE WORLD ](https://acrosstheworld.ru/)
+### 🌍 Across The World (ATW)
+
+https://acrosstheworld.ru
 
 Коммерческая платформа для туров (SPA + backend + админка)
 
--   React + TypeScript (FSD архитектура)
--   Node.js + MongoDB
--   админ-панель и система модерации
--   реализована CRM (туры, клиенты, бронирования)
+-   React + TypeScript (Feature-Sliced Design)
+-   Node.js + MongoDB\
+-   админ-панель и система модерации\
+-   CRM (туры, клиенты, бронирования)
 
 ------------------------------------------------------------------------
 
-## В работе
+## 🤖 В работе
 
 AI Assistant для туров\
-(анализ отзывов, автоматизация и рекомендации)
+(анализ отзывов и автоматизация работы с клиентами)
 
 ------------------------------------------------------------------------
 
-## Стек
+## 🛠️ Стек
 
-Frontend: React, TypeScript, Redux Toolkit, RTK Query, FSD\
-Backend: Node.js, Express, MongoDB\
-AI: Python, FastAPI, HuggingFace
+**Frontend:** React, TypeScript, Redux Toolkit, RTK Query, FSD\
+**Backend:** Node.js, Express, MongoDB\
+**AI:** Python, FastAPI, HuggingFace
 
 ------------------------------------------------------------------------
 
-## Контакты
+## 📫 Контакты
 
 Telegram: https://t.me/tamaraDanilovaFrontend
