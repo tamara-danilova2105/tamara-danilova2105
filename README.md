@@ -7,9 +7,7 @@ Frontend / Fullstack разработчик (React + Node.js).\
 
 ## Основной проект
 
-### Across The World (ATW)
-
-[ACROSS THE WORLD ](https://acrosstheworld.ru/)
+### Across The World (ATW) [ACROSS THE WORLD ](https://acrosstheworld.ru/)
 
 Коммерческая платформа для туров (SPA + backend + админка)
 
