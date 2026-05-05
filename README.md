@@ -5,9 +5,7 @@ Fullstack разработчик (React + Node.js)\
 
 ------------------------------------------------------------------------
 
-## 🚀 Основной проект
-
-### 🌍 Across The World (ATW)
+## 🌍 Across The World (ATW)
 
 https://acrosstheworld.ru
 
